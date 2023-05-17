@@ -16,6 +16,7 @@ CREATE TABLE advertisements (
 );
 
 exemple row:
+---
 INSERT INTO `users` (`id`, `name`) VALUES
 (1, 'Sanyi'),
 (2, 'RabIT');
